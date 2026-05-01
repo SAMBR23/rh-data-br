@@ -170,7 +170,7 @@ https://raw.githubusercontent.com/<usuario>/<repo>/main/<arquivo>
 import requests
 import json
 
-url = "https://raw.githubusercontent.com/SEU_USUARIO/rh-data-test/main/employees.json"
+url = "https://raw.githubusercontent.com/sam/rh-data-test/main/employees.json"
 data = requests.get(url).json()
 df = spark.createDataFrame(data)
 df.write.mode("overwrite").format("delta").saveAsTable("bronze.employees_raw")
@@ -182,7 +182,7 @@ df = (spark.read
       .option("header", "true")
       .option("delimiter", ";")
       .option("encoding", "UTF-8")
-      .csv("https://raw.githubusercontent.com/SEU_USUARIO/rh-data-test/main/org_structure.csv"))
+      .csv("https://raw.githubusercontent.com/sam/rh-data-test/main/org_structure.csv"))
 df.write.mode("overwrite").format("delta").saveAsTable("bronze.org_structure_raw")
 ```
 
@@ -191,7 +191,7 @@ df.write.mode("overwrite").format("delta").saveAsTable("bronze.org_structure_raw
 import xml.etree.ElementTree as ET
 import requests
 
-url = "https://raw.githubusercontent.com/SEU_USUARIO/rh-data-test/main/legacy_employees.xml"
+url = "https://raw.githubusercontent.com/sam/rh-data-test/main/legacy_employees.xml"
 xml_text = requests.get(url).text
 root = ET.fromstring(xml_text)
 
