@@ -1,0 +1,201 @@
+Employee ID;Full Name;Business Unit;Division;Team;Office Location;Reporting Chain;Span Of Control;Cost Center Allocation %;Last Updated
+EMP0001;Patrícia Souza;Tech;Engineering Platform;Platform Team;Remote - BR;EMP0157 > EMP0095 > EMP0034 > EMP0048 > EMP0025;6;80/20;02-Nov-2024
+EMP0002;Felipe Alves;Tech;Product Management;Platform Product;Belo Horizonte - Lourdes;EMP0133 > EMP0065;1;100;25-Aug-2024
+EMP0003;Ana Moreira;Tech;Data Platform;Data Engineering;São Paulo - Faria Lima;EMP0159 > EMP0056 > EMP0193 > EMP0200;7;80/20;09-Jan-2024
+EMP0004;Wagner Barbosa;Tech;Design Studio;Product Design;São Paulo - Berrini;EMP0009 > EMP0070;3;100;13-Dec-2024
+EMP0005;Mariana Nascimento;Tech;Engineering Platform;DevOps;Belo Horizonte - Lourdes;EMP0025;12;50/50;21-Dec-2024
+EMP0006;Ximena Ribeiro;Tech;Data Platform;BI;Belo Horizonte - Lourdes;EMP0193 > EMP0200;11;80/20;03-Jun-2024
+EMP0007;Yasmin Lima;Tech;Engineering Platform;DevOps;Belo Horizonte - Lourdes;EMP0092 > EMP0005 > EMP0025;0;100;24-Dec-2024
+EMP0008;Eduarda Alves;G&A;Business Operations;Procurement;Remote - BR;EMP0174 > EMP0152;3;100;08-Mar-2024
+EMP0009;Kaique Fernandes;Tech;Design Studio;Brand Design;São Paulo - Berrini;EMP0070;10;100;28-Jun-2024
+EMP0010;Patrícia Ferreira;Tech;Engineering Platform;Backend Squad;Rio de Janeiro - Botafogo;EMP0005 > EMP0025;12;100;23-Mar-2024
+EMP0011;Júlia Moreira;Tech;Design Studio;Brand Design;São Paulo - Faria Lima;EMP0106 > EMP0070;6;80/20;18-Dec-2024
+EMP0012;Helena Freitas;Tech;Engineering Platform;DevOps;Remote - BR;EMP0188 > EMP0157 > EMP0095 > EMP0034 > EMP0048;10;100;08-Aug-2024
+EMP0013;Nathalia Costa;G&A;People & Culture;People Ops;Belo Horizonte - Lourdes;CEO;1;100;26-Apr-2024
+EMP0014;Isabela Rodrigues;Tech;Engineering Platform;Platform Team;São Paulo - Berrini;EMP0187 > EMP0048 > EMP0025;4;50/50;27-Nov-2024
+EMP0015;Suzana Rocha;GTM;Sales Operations;SDR;São Paulo - Berrini;EMP0131;8;100;26-Dec-2024
+EMP0016;Olivia Silva;Tech;Engineering Platform;Frontend Squad;Belo Horizonte - Lourdes;EMP0048 > EMP0025;2;100;28-May-2024
+EMP0017;Gustavo Alves;G&A;Legal & Compliance;Compliance;Remote - BR;EMP0022 > EMP0074;8;100;02-Jan-2024
+EMP0018;Caio Ribeiro;G&A;Finance & Accounting;Treasury;São Paulo - Faria Lima;EMP0030 > EMP0066 > EMP0134;0;100;06-May-2024
+EMP0019;Mariana Alves;G&A;Legal & Compliance;Corporate Law;Rio de Janeiro - Botafogo;EMP0145 > EMP0022 > EMP0074;5;100;03-Nov-2024
+EMP0020;Júlia Marques;Tech;Engineering Platform;Platform Team;Remote - BR;EMP0025;3;100;10-Apr-2024
+EMP0021;Yasmin Lima;G&A;Finance & Accounting;FP&A;São Paulo - Faria Lima;EMP0066 > EMP0134;11;100;14-Jul-2024
+EMP0022;Murilo Andrade;G&A;Legal & Compliance;Compliance;São Paulo - Faria Lima;EMP0074;11;100;18-Jan-2024
+EMP0023;Eduarda Barbosa;Tech;Engineering Platform;Backend Squad;São Paulo - Berrini;EMP0190 > EMP0082 > EMP0048 > EMP0025;5;50/50;24-Mar-2024
+EMP0024;Murilo Vieira;G&A;People & Culture;People Ops;São Paulo - Faria Lima;EMP0125 > EMP0013;9;50/50;15-May-2024
+EMP0025;Ursula Freitas;Tech;Engineering Platform;Mobile Squad;São Paulo - Faria Lima;CEO;12;100;20-Sep-2024
+EMP0026;Ximena Gomes;Tech;Data Platform;BI;Rio de Janeiro - Botafogo;EMP0200;11;100;26-Sep-2024
+EMP0027;Gabriela Mendes;Tech;Data Platform;BI;Belo Horizonte - Lourdes;EMP0165 > EMP0200;7;100;20-Oct-2024
+EMP0028;Patrícia Machado;Tech;Design Studio;Product Design;São Paulo - Faria Lima;EMP0075 > EMP0070;7;80/20;24-Jul-2024
+EMP0029;Quésia Ferreira;G&A;Finance & Accounting;Treasury;São Paulo - Berrini;EMP0134;2;80/20;01-May-2024
+EMP0030;Kaique Rodrigues;G&A;Finance & Accounting;Controllership;Remote - BR;EMP0066 > EMP0134;8;100;15-Mar-2024
+EMP0031;Kaique Mendes;G&A;Finance & Accounting;Controllership;Rio de Janeiro - Botafogo;EMP0119 > EMP0021 > EMP0066 > EMP0134;8;100;16-Nov-2024
+EMP0032;Suzana Machado;Tech;Product Management;Platform Product;Rio de Janeiro - Botafogo;EMP0065;1;100;21-Oct-2024
+EMP0033;Olivia Pereira;Tech;Engineering Platform;Backend Squad;São Paulo - Berrini;EMP0175 > EMP0025;4;80/20;16-Jun-2024
+EMP0034;Júlia Costa;Tech;Engineering Platform;Frontend Squad;São Paulo - Faria Lima;EMP0048 > EMP0025;4;100;23-Nov-2024
+EMP0035;Helena Souza;GTM;Customer Experience;Onboarding;São Paulo - Berrini;EMP0072 > EMP0046 > EMP0108 > EMP0078;10;100;21-Jul-2024
+EMP0036;Vinicius Barbosa;GTM;Sales Operations;Inside Sales;São Paulo - Berrini;EMP0131;9;100;22-Feb-2024
+EMP0037;Isabela Alves;G&A;Finance & Accounting;FP&A;Remote - BR;EMP0146 > EMP0066 > EMP0134;0;100;18-Aug-2024
+EMP0038;Nicolas Carvalho;G&A;Business Operations;BizOps;São Paulo - Berrini;EMP0063 > EMP0099 > EMP0152;3;100;19-Nov-2024
+EMP0039;Helena Dias;Tech;Engineering Platform;Platform Team;São Paulo - Faria Lima;EMP0144 > EMP0025;3;50/50;26-Aug-2024
+EMP0040;Otávio Machado;Tech;Engineering Platform;DevOps;São Paulo - Berrini;EMP0187 > EMP0048 > EMP0025;5;100;28-Aug-2024
+EMP0041;Valentina Silva;Tech;Engineering Platform;DevOps;Rio de Janeiro - Botafogo;EMP0007 > EMP0092 > EMP0005 > EMP0025;2;100;01-Dec-2024
+EMP0042;Isabela Nunes;G&A;Finance & Accounting;Treasury;Rio de Janeiro - Botafogo;EMP0029 > EMP0134;12;80/20;13-Jan-2024
+EMP0043;Fernanda Almeida;Tech;Design Studio;Product Design;São Paulo - Berrini;EMP0085 > EMP0070;1;80/20;17-Oct-2024
+EMP0044;Sofia Pereira;Tech;Design Studio;Brand Design;Remote - BR;EMP0070;7;100;02-Sep-2024
+EMP0045;Beatriz Costa;G&A;Legal & Compliance;Compliance;Belo Horizonte - Lourdes;EMP0061 > EMP0155 > EMP0022 > EMP0074;7;80/20;12-May-2024
+EMP0046;Wagner Gomes;GTM;Customer Experience;Retention;Belo Horizonte - Lourdes;EMP0108 > EMP0078;6;100;03-Aug-2024
+EMP0047;Gustavo Silva;GTM;Customer Experience;Support;Rio de Janeiro - Botafogo;EMP0078;2;100;02-Sep-2024
+EMP0048;Murilo Vieira;Tech;Engineering Platform;Frontend Squad;Belo Horizonte - Lourdes;EMP0025;1;100;16-Jul-2024
+EMP0049;Elias Costa;GTM;Sales Operations;Field Sales;Belo Horizonte - Lourdes;EMP0015 > EMP0131;1;100;09-Jun-2024
+EMP0050;Olivia Rocha;Tech;Engineering Platform;DevOps;Belo Horizonte - Lourdes;EMP0034 > EMP0048 > EMP0025;2;100;16-Mar-2024
+EMP0051;Henrique Vieira;Tech;Data Platform;Data Engineering;Belo Horizonte - Lourdes;EMP0056 > EMP0193 > EMP0200;7;100;16-Nov-2024
+EMP0052;Thiago Vieira;Tech;Engineering Platform;Platform Team;Rio de Janeiro - Botafogo;EMP0109 > EMP0091 > EMP0025;5;100;13-Sep-2024
+EMP0053;Letícia Nunes;Tech;Engineering Platform;Frontend Squad;Rio de Janeiro - Botafogo;EMP0147 > EMP0092 > EMP0005 > EMP0025;6;100;24-Jan-2024
+EMP0054;Caio Ribeiro;Tech;Engineering Platform;Platform Team;Remote - BR;EMP0169 > EMP0187 > EMP0048 > EMP0025;2;100;23-Sep-2024
+EMP0055;Caio Marques;G&A;Business Operations;Procurement;Belo Horizonte - Lourdes;EMP0152;8;100;03-May-2024
+EMP0056;Lucas Lopes;Tech;Data Platform;Analytics Engineering;Rio de Janeiro - Botafogo;EMP0193 > EMP0200;5;100;09-Oct-2024
+EMP0057;Beatriz Lopes;G&A;Legal & Compliance;Compliance;São Paulo - Berrini;EMP0019 > EMP0145 > EMP0022 > EMP0074;3;80/20;04-Aug-2024
+EMP0058;Valentina Pereira;GTM;Growth Marketing;Content;Belo Horizonte - Lourdes;EMP0086;4;100;15-Oct-2024
+EMP0059;Quésia Pereira;Tech;Engineering Platform;Mobile Squad;São Paulo - Faria Lima;EMP0076 > EMP0005 > EMP0025;7;100;23-Oct-2024
+EMP0060;Murilo Moreira;G&A;People & Culture;Talent Acquisition;Belo Horizonte - Lourdes;EMP0118 > EMP0013;5;100;09-Jan-2024
+EMP0061;Carla Santos;G&A;Legal & Compliance;Compliance;Rio de Janeiro - Botafogo;EMP0155 > EMP0022 > EMP0074;10;100;26-Jan-2024
+EMP0062;Diana Costa;Tech;Data Platform;BI;São Paulo - Berrini;EMP0200;12;100;02-Jan-2024
+EMP0063;João Nunes;G&A;Business Operations;BizOps;São Paulo - Faria Lima;EMP0099 > EMP0152;5;50/50;20-Feb-2024
+EMP0064;Thiago Machado;G&A;Business Operations;Procurement;São Paulo - Faria Lima;EMP0055 > EMP0152;8;80/20;18-Aug-2024
+EMP0065;Felipe Ferreira;Tech;Product Management;Platform Product;Rio de Janeiro - Botafogo;CEO;12;80/20;27-Dec-2024
+EMP0066;Sofia Nascimento;G&A;Finance & Accounting;Controllership;São Paulo - Berrini;EMP0134;8;100;14-Jul-2024
+EMP0067;Rodrigo Rodrigues;Tech;Design Studio;Brand Design;Belo Horizonte - Lourdes;EMP0106 > EMP0070;3;50/50;13-Mar-2024
+EMP0068;Thiago Nascimento;GTM;Customer Experience;Onboarding;São Paulo - Berrini;EMP0078;7;100;07-Feb-2024
+EMP0069;Bruno Oliveira;Tech;Product Management;Platform Product;Belo Horizonte - Lourdes;EMP0133 > EMP0065;12;100;13-Mar-2024
+EMP0070;Diana Freitas;Tech;Design Studio;Brand Design;São Paulo - Berrini;CEO;11;50/50;24-Jun-2024
+EMP0071;Gabriela Machado;Tech;Data Platform;BI;São Paulo - Berrini;EMP0200;9;100;05-Feb-2024
+EMP0072;Ursula Souza;GTM;Customer Experience;Support;Belo Horizonte - Lourdes;EMP0046 > EMP0108 > EMP0078;8;80/20;27-Jan-2024
+EMP0073;Gustavo Rocha;G&A;Finance & Accounting;FP&A;Rio de Janeiro - Botafogo;EMP0037 > EMP0146 > EMP0066 > EMP0134;12;100;04-Oct-2024
+EMP0074;Karen Gomes;G&A;Legal & Compliance;Corporate Law;Belo Horizonte - Lourdes;CEO;1;100;10-Dec-2024
+EMP0075;Sofia Soares;Tech;Design Studio;Product Design;São Paulo - Berrini;EMP0070;7;80/20;18-Feb-2024
+EMP0076;Isabela Machado;Tech;Engineering Platform;DevOps;São Paulo - Berrini;EMP0005 > EMP0025;5;100;21-Jun-2024
+EMP0077;Suzana Lopes;Tech;Data Platform;BI;Remote - BR;EMP0062 > EMP0200;10;100;08-Mar-2024
+EMP0078;Pedro Vieira;GTM;Customer Experience;Onboarding;São Paulo - Berrini;CEO;12;100;07-Jan-2024
+EMP0079;Carla Rodrigues;G&A;People & Culture;People Ops;São Paulo - Faria Lima;EMP0118 > EMP0013;10;100;01-Jul-2024
+EMP0080;Fernanda Nunes;Tech;Design Studio;Brand Design;Rio de Janeiro - Botafogo;EMP0070;11;100;08-Aug-2024
+EMP0081;Carla Barbosa;Tech;Engineering Platform;Backend Squad;São Paulo - Berrini;EMP0020 > EMP0025;2;100;06-Aug-2024
+EMP0082;Valentina Gomes;Tech;Engineering Platform;DevOps;São Paulo - Berrini;EMP0048 > EMP0025;0;100;11-May-2024
+EMP0083;Lucas Ferreira;Tech;Data Platform;BI;São Paulo - Faria Lima;EMP0143 > EMP0062 > EMP0200;11;80/20;08-Nov-2024
+EMP0084;Quésia Dias;Tech;Engineering Platform;DevOps;Belo Horizonte - Lourdes;EMP0142 > EMP0048 > EMP0025;7;50/50;25-Mar-2024
+EMP0085;Caio Nascimento;Tech;Design Studio;Product Design;Remote - BR;EMP0070;12;50/50;13-Mar-2024
+EMP0086;Sofia Nascimento;GTM;Growth Marketing;Content;São Paulo - Faria Lima;CEO;11;50/50;17-Jun-2024
+EMP0087;Nathalia Nunes;GTM;Sales Operations;SDR;São Paulo - Faria Lima;EMP0131;7;100;28-Oct-2024
+EMP0088;Diana Santos;G&A;Business Operations;BizOps;Remote - BR;EMP0189 > EMP0055 > EMP0152;0;100;16-Oct-2024
+EMP0089;Igor Soares;Tech;Design Studio;Brand Design;São Paulo - Faria Lima;EMP0044 > EMP0070;3;100;22-Mar-2024
+EMP0090;Tomás Andrade;Tech;Engineering Platform;DevOps;São Paulo - Berrini;EMP0103 > EMP0092 > EMP0005 > EMP0025;11;100;09-Oct-2024
+EMP0091;Tomás Andrade;Tech;Engineering Platform;Platform Team;Belo Horizonte - Lourdes;EMP0025;8;50/50;08-Nov-2024
+EMP0092;Otávio Pereira;Tech;Engineering Platform;Backend Squad;Rio de Janeiro - Botafogo;EMP0005 > EMP0025;6;50/50;19-Dec-2024
+EMP0093;Henrique Souza;Tech;Product Management;Core Product;Remote - BR;EMP0130 > EMP0133 > EMP0065;7;100;09-Jun-2024
+EMP0094;Gabriela Marques;G&A;People & Culture;L&D;Remote - BR;EMP0013;10;100;23-Feb-2024
+EMP0095;Ximena Fernandes;Tech;Engineering Platform;Mobile Squad;Remote - BR;EMP0034 > EMP0048 > EMP0025;3;100;14-May-2024
+EMP0096;Daniel Nunes;GTM;Sales Operations;Field Sales;Belo Horizonte - Lourdes;EMP0131;11;100;05-Jul-2024
+EMP0097;João Nunes;Tech;Corporate IT;Infrastructure;São Paulo - Berrini;CEO;4;100;26-Apr-2024
+EMP0098;Wagner Nunes;Tech;Product Management;Platform Product;Rio de Janeiro - Botafogo;EMP0032 > EMP0065;5;100;07-Mar-2024
+EMP0099;Ximena Soares;G&A;Business Operations;BizOps;São Paulo - Berrini;EMP0152;3;80/20;04-May-2024
+EMP0100;Fernanda Machado;GTM;Customer Experience;Retention;Belo Horizonte - Lourdes;EMP0078;4;100;28-Nov-2024
+EMP0101;Rafael Barbosa;Tech;Engineering Platform;DevOps;São Paulo - Faria Lima;EMP0144 > EMP0025;10;100;12-Nov-2024
+EMP0102;Valentina Souza;Tech;Engineering Platform;Frontend Squad;Belo Horizonte - Lourdes;EMP0147 > EMP0092 > EMP0005 > EMP0025;0;100;18-Feb-2024
+EMP0103;Beatriz Andrade;Tech;Engineering Platform;Mobile Squad;Rio de Janeiro - Botafogo;EMP0092 > EMP0005 > EMP0025;8;80/20;24-Jun-2024
+EMP0104;Caio Souza;GTM;Sales Operations;SDR;Rio de Janeiro - Botafogo;EMP0178 > EMP0123 > EMP0198 > EMP0177 > EMP0096;12;100;16-Jun-2024
+EMP0105;Daniel Gomes;Tech;Corporate IT;Infrastructure;Belo Horizonte - Lourdes;EMP0116 > EMP0097;9;80/20;10-Jul-2024
+EMP0106;Ximena Souza;Tech;Design Studio;Product Design;São Paulo - Berrini;EMP0070;7;100;13-Feb-2024
+EMP0107;Lucas Lima;GTM;Growth Marketing;Brand;Rio de Janeiro - Botafogo;EMP0058 > EMP0086;5;100;28-Jan-2024
+EMP0108;Igor Alves;GTM;Customer Experience;Support;Remote - BR;EMP0078;2;100;21-Oct-2024
+EMP0109;Daniel Dias;Tech;Engineering Platform;DevOps;Belo Horizonte - Lourdes;EMP0091 > EMP0025;7;100;16-Aug-2024
+EMP0110;Caio Souza;GTM;Growth Marketing;Content;Remote - BR;EMP0162 > EMP0141 > EMP0148 > EMP0179 > EMP0086;11;100;13-Feb-2024
+EMP0111;Nicolas Gomes;Tech;Data Platform;BI;São Paulo - Faria Lima;EMP0071 > EMP0200;1;50/50;10-Oct-2024
+EMP0112;Olivia Soares;G&A;Legal & Compliance;Compliance;Rio de Janeiro - Botafogo;EMP0061 > EMP0155 > EMP0022 > EMP0074;6;80/20;27-Jun-2024
+EMP0113;Letícia Carvalho;G&A;Business Operations;BizOps;Remote - BR;EMP0152;5;100;17-Oct-2024
+EMP0114;Ximena Oliveira;G&A;Finance & Accounting;Treasury;São Paulo - Berrini;EMP0134;8;100;07-Jul-2024
+EMP0115;Karen Oliveira;G&A;People & Culture;People Ops;Rio de Janeiro - Botafogo;EMP0125 > EMP0013;4;50/50;06-Jun-2024
+EMP0116;Mariana Ferreira;Tech;Corporate IT;Infrastructure;Remote - BR;EMP0097;12;100;09-Aug-2024
+EMP0117;Letícia Rocha;Tech;Engineering Platform;Frontend Squad;São Paulo - Faria Lima;EMP0144 > EMP0025;7;80/20;15-Apr-2024
+EMP0118;Daniel Ribeiro;G&A;People & Culture;L&D;São Paulo - Berrini;EMP0013;4;100;01-Jun-2024
+EMP0119;Helena Martins;G&A;Finance & Accounting;FP&A;Remote - BR;EMP0021 > EMP0066 > EMP0134;8;100;07-Apr-2024
+EMP0120;João Santos;G&A;Finance & Accounting;Controllership;Remote - BR;EMP0146 > EMP0066 > EMP0134;3;50/50;01-May-2024
+EMP0121;Igor Barbosa;Tech;Data Platform;BI;Belo Horizonte - Lourdes;EMP0083 > EMP0143 > EMP0062 > EMP0200;3;80/20;11-Jan-2024
+EMP0122;Vinicius Souza;G&A;Legal & Compliance;Corporate Law;São Paulo - Faria Lima;EMP0045 > EMP0061 > EMP0155 > EMP0022 > EMP0074;3;50/50;21-May-2024
+EMP0123;João Freitas;GTM;Sales Operations;SDR;Remote - BR;EMP0198 > EMP0177 > EMP0096 > EMP0131;8;100;06-Dec-2024
+EMP0124;Suzana Nascimento;Tech;Engineering Platform;Frontend Squad;Remote - BR;EMP0012 > EMP0188 > EMP0157 > EMP0095 > EMP0034;4;100;11-Apr-2024
+EMP0125;Vinicius Moreira;G&A;People & Culture;People Ops;São Paulo - Berrini;EMP0013;5;100;06-Nov-2024
+EMP0126;Nathalia Martins;Tech;Data Platform;Data Engineering;São Paulo - Berrini;EMP0143 > EMP0062 > EMP0200;4;80/20;06-Dec-2024
+EMP0127;Otávio Gomes;G&A;Finance & Accounting;Controllership;Remote - BR;EMP0066 > EMP0134;1;100;27-Apr-2024
+EMP0128;Sofia Moreira;GTM;Customer Experience;Support;São Paulo - Berrini;EMP0100 > EMP0078;10;100;07-Jan-2024
+EMP0129;Kaique Freitas;Tech;Engineering Platform;Mobile Squad;Remote - BR;EMP0034 > EMP0048 > EMP0025;11;100;23-Mar-2024
+EMP0130;Felipe Freitas;Tech;Product Management;Growth Product;Remote - BR;EMP0133 > EMP0065;1;80/20;21-Jun-2024
+EMP0131;Olivia Silva;GTM;Sales Operations;SDR;Rio de Janeiro - Botafogo;CEO;11;50/50;17-Apr-2024
+EMP0132;Fernanda Almeida;Tech;Corporate IT;Infrastructure;Belo Horizonte - Lourdes;EMP0097;6;80/20;10-Sep-2024
+EMP0133;Henrique Santos;Tech;Product Management;Growth Product;São Paulo - Berrini;EMP0065;10;80/20;05-Feb-2024
+EMP0134;João Gomes;G&A;Finance & Accounting;Controllership;São Paulo - Berrini;CEO;12;100;23-Jul-2024
+EMP0135;Júlia Soares;G&A;People & Culture;Talent Acquisition;Remote - BR;EMP0164 > EMP0013;9;100;24-Oct-2024
+EMP0136;Wagner Pereira;Tech;Engineering Platform;Backend Squad;São Paulo - Faria Lima;EMP0020 > EMP0025;2;50/50;07-Jul-2024
+EMP0137;Elias Nascimento;G&A;People & Culture;People Ops;Rio de Janeiro - Botafogo;EMP0024 > EMP0125 > EMP0013;8;100;14-Jun-2024
+EMP0138;Ursula Freitas;GTM;Growth Marketing;Performance;São Paulo - Berrini;EMP0086;0;100;09-Dec-2024
+EMP0139;Vinicius Lima;Tech;Engineering Platform;DevOps;Remote - BR;EMP0081 > EMP0020 > EMP0025;9;100;27-Aug-2024
+EMP0140;Rafael Nunes;Tech;Engineering Platform;Backend Squad;São Paulo - Faria Lima;EMP0136 > EMP0020 > EMP0025;3;100;16-Jun-2024
+EMP0141;Suzana Gomes;GTM;Growth Marketing;Performance;Remote - BR;EMP0148 > EMP0179 > EMP0086;9;100;07-Dec-2024
+EMP0142;Rafael Rocha;Tech;Engineering Platform;Backend Squad;São Paulo - Faria Lima;EMP0048 > EMP0025;3;100;20-May-2024
+EMP0143;Diana Santos;Tech;Data Platform;Data Engineering;Remote - BR;EMP0062 > EMP0200;3;100;06-Dec-2024
+EMP0144;Diana Moreira;Tech;Engineering Platform;Mobile Squad;Rio de Janeiro - Botafogo;EMP0025;0;80/20;20-Aug-2024
+EMP0145;Igor Martins;G&A;Legal & Compliance;Compliance;Belo Horizonte - Lourdes;EMP0022 > EMP0074;4;100;20-Oct-2024
+EMP0146;Diana Ferreira;G&A;Finance & Accounting;Treasury;Belo Horizonte - Lourdes;EMP0066 > EMP0134;10;100;26-Sep-2024
+EMP0147;Helena Pereira;Tech;Engineering Platform;Mobile Squad;Rio de Janeiro - Botafogo;EMP0092 > EMP0005 > EMP0025;5;100;05-Aug-2024
+EMP0148;Felipe Oliveira;GTM;Growth Marketing;Content;Remote - BR;EMP0179 > EMP0086;9;80/20;18-Jul-2024
+EMP0149;Elias Dias;G&A;People & Culture;People Ops;São Paulo - Berrini;EMP0164 > EMP0013;8;100;28-Jan-2024
+EMP0150;João Gomes;Tech;Data Platform;BI;Belo Horizonte - Lourdes;EMP0193 > EMP0200;2;80/20;02-Mar-2024
+EMP0151;Isabela Rocha;GTM;Growth Marketing;Content;Belo Horizonte - Lourdes;EMP0158 > EMP0179 > EMP0086;11;100;17-Oct-2024
+EMP0152;Nathalia Costa;G&A;Business Operations;Procurement;São Paulo - Faria Lima;CEO;2;80/20;22-Mar-2024
+EMP0153;Otávio Rocha;Tech;Engineering Platform;DevOps;São Paulo - Faria Lima;EMP0091 > EMP0025;0;50/50;20-Jul-2024
+EMP0154;Daniel Ferreira;G&A;Finance & Accounting;FP&A;Rio de Janeiro - Botafogo;EMP0021 > EMP0066 > EMP0134;7;100;12-Jun-2024
+EMP0155;Ximena Soares;G&A;Legal & Compliance;Compliance;Remote - BR;EMP0022 > EMP0074;12;100;15-Oct-2024
+EMP0156;Otávio Carvalho;Tech;Product Management;Growth Product;Belo Horizonte - Lourdes;EMP0002 > EMP0133 > EMP0065;1;100;04-Jun-2024
+EMP0157;Gustavo Silva;Tech;Engineering Platform;Frontend Squad;São Paulo - Berrini;EMP0095 > EMP0034 > EMP0048 > EMP0025;1;50/50;13-Apr-2024
+EMP0158;Tomás Lopes;GTM;Growth Marketing;Performance;São Paulo - Berrini;EMP0179 > EMP0086;9;80/20;11-Oct-2024
+EMP0159;Letícia Fernandes;Tech;Data Platform;Data Engineering;Rio de Janeiro - Botafogo;EMP0056 > EMP0193 > EMP0200;6;80/20;04-Oct-2024
+EMP0160;Isabela Souza;GTM;Customer Experience;Support;São Paulo - Berrini;EMP0078;8;80/20;02-Oct-2024
+EMP0161;Isabela Nascimento;GTM;Sales Operations;SDR;Remote - BR;EMP0194 > EMP0177 > EMP0096 > EMP0131;12;100;17-Oct-2024
+EMP0162;Otávio Andrade;GTM;Growth Marketing;Brand;Remote - BR;EMP0141 > EMP0148 > EMP0179 > EMP0086;1;100;01-Jun-2024
+EMP0163;Tomás Souza;G&A;Finance & Accounting;FP&A;Rio de Janeiro - Botafogo;EMP0120 > EMP0146 > EMP0066 > EMP0134;9;100;07-Jun-2024
+EMP0164;Daniel Vieira;G&A;People & Culture;Talent Acquisition;São Paulo - Berrini;EMP0013;5;100;15-May-2024
+EMP0165;Valentina Souza;Tech;Data Platform;BI;São Paulo - Berrini;EMP0200;12;50/50;04-Jul-2024
+EMP0166;Daniel Nascimento;Tech;Data Platform;Analytics Engineering;Rio de Janeiro - Botafogo;EMP0165 > EMP0200;7;100;28-Nov-2024
+EMP0167;Júlia Ribeiro;Tech;Engineering Platform;Mobile Squad;São Paulo - Berrini;EMP0102 > EMP0147 > EMP0092 > EMP0005 > EMP0025;6;50/50;23-Oct-2024
+EMP0168;Thiago Pereira;GTM;Growth Marketing;Performance;Remote - BR;EMP0086;9;100;21-Oct-2024
+EMP0169;Henrique Vieira;Tech;Engineering Platform;Mobile Squad;Remote - BR;EMP0187 > EMP0048 > EMP0025;3;100;14-Apr-2024
+EMP0170;Rodrigo Lima;G&A;People & Culture;L&D;Rio de Janeiro - Botafogo;EMP0118 > EMP0013;1;100;23-Aug-2024
+EMP0171;Daniel Dias;G&A;People & Culture;People Ops;Remote - BR;EMP0170 > EMP0118 > EMP0013;5;100;03-Aug-2024
+EMP0172;Karen Carvalho;Tech;Engineering Platform;Frontend Squad;São Paulo - Berrini;EMP0139 > EMP0081 > EMP0020 > EMP0025;3;100;09-Oct-2024
+EMP0173;Letícia Pereira;G&A;Legal & Compliance;Corporate Law;Remote - BR;EMP0022 > EMP0074;6;100;02-Oct-2024
+EMP0174;Ana Gomes;G&A;Business Operations;BizOps;São Paulo - Faria Lima;EMP0152;4;80/20;08-Jan-2024
+EMP0175;Mariana Nunes;Tech;Engineering Platform;Mobile Squad;São Paulo - Faria Lima;EMP0025;0;100;18-Jan-2024
+EMP0176;Tomás Moreira;Tech;Data Platform;BI;Remote - BR;EMP0126 > EMP0143 > EMP0062 > EMP0200;11;80/20;13-Sep-2024
+EMP0177;Isabela Lopes;GTM;Sales Operations;SDR;Rio de Janeiro - Botafogo;EMP0096 > EMP0131;4;100;18-Dec-2024
+EMP0178;Quésia Rocha;GTM;Sales Operations;Field Sales;Rio de Janeiro - Botafogo;EMP0123 > EMP0198 > EMP0177 > EMP0096 > EMP0131;7;80/20;14-Mar-2024
+EMP0179;Henrique Rocha;GTM;Growth Marketing;Content;São Paulo - Faria Lima;EMP0086;7;100;26-Mar-2024
+EMP0180;Suzana Marques;Tech;Data Platform;Analytics Engineering;São Paulo - Berrini;EMP0165 > EMP0200;7;80/20;13-Jul-2024
+EMP0181;Henrique Santos;G&A;Legal & Compliance;Compliance;Remote - BR;EMP0022 > EMP0074;10;80/20;17-Jan-2024
+EMP0182;Murilo Lopes;Tech;Engineering Platform;Frontend Squad;Belo Horizonte - Lourdes;EMP0012 > EMP0188 > EMP0157 > EMP0095 > EMP0034;2;50/50;22-Oct-2024
+EMP0183;Tomás Nunes;GTM;Growth Marketing;Performance;São Paulo - Faria Lima;EMP0110 > EMP0162 > EMP0141 > EMP0148 > EMP0179;0;50/50;08-Jul-2024
+EMP0184;Eduarda Fernandes;Tech;Engineering Platform;Frontend Squad;Rio de Janeiro - Botafogo;EMP0101 > EMP0144 > EMP0025;5;100;27-May-2024
+EMP0185;Yasmin Oliveira;Tech;Engineering Platform;Mobile Squad;São Paulo - Faria Lima;EMP0095 > EMP0034 > EMP0048 > EMP0025;1;100;11-Aug-2024
+EMP0186;Bruno Gomes;G&A;Finance & Accounting;Treasury;São Paulo - Faria Lima;EMP0154 > EMP0021 > EMP0066 > EMP0134;8;100;22-Aug-2024
+EMP0187;Mariana Freitas;Tech;Engineering Platform;Platform Team;Remote - BR;EMP0048 > EMP0025;1;100;23-Jun-2024
+EMP0188;Diana Barbosa;Tech;Engineering Platform;Platform Team;São Paulo - Berrini;EMP0157 > EMP0095 > EMP0034 > EMP0048 > EMP0025;6;100;27-May-2024
+EMP0189;Olivia Marques;G&A;Business Operations;BizOps;Remote - BR;EMP0055 > EMP0152;9;100;07-Mar-2024
+EMP0190;Thiago Lima;Tech;Engineering Platform;Backend Squad;Remote - BR;EMP0082 > EMP0048 > EMP0025;8;100;20-Dec-2024
+EMP0191;Ursula Nascimento;G&A;Finance & Accounting;Controllership;Belo Horizonte - Lourdes;EMP0066 > EMP0134;0;100;09-Aug-2024
+EMP0192;Daniel Fernandes;G&A;Finance & Accounting;Controllership;Rio de Janeiro - Botafogo;EMP0066 > EMP0134;2;100;27-Jun-2024
+EMP0193;Felipe Fernandes;Tech;Data Platform;Data Engineering;Rio de Janeiro - Botafogo;EMP0200;9;80/20;07-Jan-2024
+EMP0194;Fernanda Alves;GTM;Sales Operations;Inside Sales;São Paulo - Faria Lima;EMP0177 > EMP0096 > EMP0131;3;80/20;02-Jun-2024
+EMP0195;Pedro Fernandes;GTM;Sales Operations;SDR;Rio de Janeiro - Botafogo;EMP0194 > EMP0177 > EMP0096 > EMP0131;10;80/20;03-Jun-2024
+EMP0196;Gabriela Nunes;G&A;People & Culture;L&D;São Paulo - Faria Lima;EMP0137 > EMP0024 > EMP0125 > EMP0013;7;80/20;17-Apr-2024
+EMP0197;Kaique Freitas;G&A;Business Operations;Procurement;São Paulo - Berrini;EMP0088 > EMP0189 > EMP0055 > EMP0152;6;100;09-May-2024
+EMP0198;Rodrigo Dias;GTM;Sales Operations;Field Sales;Rio de Janeiro - Botafogo;EMP0177 > EMP0096 > EMP0131;4;100;21-Mar-2024
+EMP0199;Júlia Lopes;Tech;Data Platform;Data Engineering;Belo Horizonte - Lourdes;EMP0027 > EMP0165 > EMP0200;4;100;27-Nov-2024
+EMP0200;Olivia Oliveira;Tech;Data Platform;Analytics Engineering;São Paulo - Berrini;CEO;8;100;02-Jun-2024

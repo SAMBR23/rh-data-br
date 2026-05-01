@@ -1,0 +1,200 @@
+[
+  {
+    "id_cargo": "P001",
+    "titulo": "Engenheiro de Software Jr",
+    "nivel": "Junior",
+    "id_departamento": "D001",
+    "salario_minimo": 5500,
+    "salario_maximo": 8000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P002",
+    "titulo": "Engenheiro de Software Pleno",
+    "nivel": "Pleno",
+    "id_departamento": "D001",
+    "salario_minimo": 9000,
+    "salario_maximo": 14000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P003",
+    "titulo": "Engenheiro de Software Sênior",
+    "nivel": "Senior",
+    "id_departamento": "D001",
+    "salario_minimo": 15000,
+    "salario_maximo": 22000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P004",
+    "titulo": "Tech Lead",
+    "nivel": "Lead",
+    "id_departamento": "D001",
+    "salario_minimo": 20000,
+    "salario_maximo": 28000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P005",
+    "titulo": "Engenheiro de Dados Pleno",
+    "nivel": "Pleno",
+    "id_departamento": "D004",
+    "salario_minimo": 10000,
+    "salario_maximo": 15000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P006",
+    "titulo": "Engenheiro de Dados Sênior",
+    "nivel": "Senior",
+    "id_departamento": "D004",
+    "salario_minimo": 16000,
+    "salario_maximo": 24000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P007",
+    "titulo": "Analista de Dados",
+    "nivel": "Pleno",
+    "id_departamento": "D004",
+    "salario_minimo": 7000,
+    "salario_maximo": 11000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P008",
+    "titulo": "Product Manager",
+    "nivel": "Pleno",
+    "id_departamento": "D002",
+    "salario_minimo": 12000,
+    "salario_maximo": 18000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P009",
+    "titulo": "Designer UX/UI",
+    "nivel": "Pleno",
+    "id_departamento": "D003",
+    "salario_minimo": 8000,
+    "salario_maximo": 13000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P010",
+    "titulo": "Analista de Marketing",
+    "nivel": "Pleno",
+    "id_departamento": "D005",
+    "salario_minimo": 6000,
+    "salario_maximo": 10000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P011",
+    "titulo": "Executivo de Vendas",
+    "nivel": "Pleno",
+    "id_departamento": "D006",
+    "salario_minimo": 5000,
+    "salario_maximo": 9000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P012",
+    "titulo": "Gerente de Vendas",
+    "nivel": "Manager",
+    "id_departamento": "D006",
+    "salario_minimo": 14000,
+    "salario_maximo": 22000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P013",
+    "titulo": "Customer Success Manager",
+    "nivel": "Pleno",
+    "id_departamento": "D007",
+    "salario_minimo": 7000,
+    "salario_maximo": 12000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P014",
+    "titulo": "Analista Financeiro",
+    "nivel": "Pleno",
+    "id_departamento": "D008",
+    "salario_minimo": 6500,
+    "salario_maximo": 10500,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P015",
+    "titulo": "Controller",
+    "nivel": "Senior",
+    "id_departamento": "D008",
+    "salario_minimo": 14000,
+    "salario_maximo": 20000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P016",
+    "titulo": "Analista de RH",
+    "nivel": "Pleno",
+    "id_departamento": "D009",
+    "salario_minimo": 6000,
+    "salario_maximo": 9500,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P017",
+    "titulo": "Business Partner RH",
+    "nivel": "Senior",
+    "id_departamento": "D009",
+    "salario_minimo": 11000,
+    "salario_maximo": 17000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P018",
+    "titulo": "Advogado Corporativo",
+    "nivel": "Pleno",
+    "id_departamento": "D010",
+    "salario_minimo": 9000,
+    "salario_maximo": 15000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P019",
+    "titulo": "Analista de Operações",
+    "nivel": "Pleno",
+    "id_departamento": "D011",
+    "salario_minimo": 5500,
+    "salario_maximo": 9000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P020",
+    "titulo": "Analista de TI",
+    "nivel": "Pleno",
+    "id_departamento": "D012",
+    "salario_minimo": 6500,
+    "salario_maximo": 11000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P021",
+    "titulo": "Diretor",
+    "nivel": "Director",
+    "id_departamento": "D001",
+    "salario_minimo": 30000,
+    "salario_maximo": 50000,
+    "moeda": "BRL"
+  },
+  {
+    "id_cargo": "P022",
+    "titulo": "Estagiário",
+    "nivel": "Intern",
+    "id_departamento": "D001",
+    "salario_minimo": 1800,
+    "salario_maximo": 2500,
+    "moeda": "BRL"
+  }
+]

@@ -1,0 +1,5502 @@
+{
+  "survey_id": "ENG-2024-Q3",
+  "survey_name": "Pesquisa de Engajamento Q3 2024",
+  "applied_at": "2024-09-15",
+  "questions": [
+    {
+      "q_id": "Q1",
+      "text": "Sinto-me motivado(a) no trabalho",
+      "category": "Engajamento"
+    },
+    {
+      "q_id": "Q2",
+      "text": "Recomendaria a empresa para um amigo",
+      "category": "eNPS"
+    },
+    {
+      "q_id": "Q3",
+      "text": "Tenho clareza sobre minhas metas",
+      "category": "Liderança"
+    },
+    {
+      "q_id": "Q4",
+      "text": "Recebo feedback construtivo do meu gestor",
+      "category": "Liderança"
+    },
+    {
+      "q_id": "Q5",
+      "text": "Vejo oportunidades de crescimento aqui",
+      "category": "Carreira"
+    },
+    {
+      "q_id": "Q6",
+      "text": "Meu salário é compatível com o mercado",
+      "category": "Remuneração"
+    },
+    {
+      "q_id": "Q7",
+      "text": "Tenho equilíbrio entre vida pessoal e profissional",
+      "category": "Bem-estar"
+    },
+    {
+      "q_id": "Q8",
+      "text": "Sinto-me incluído(a) e respeitado(a)",
+      "category": "DEI"
+    }
+  ],
+  "responses": [
+    {
+      "response_id": "RESP-EMP0001-Q3",
+      "employee_id": "EMP0001",
+      "department_id": "D001",
+      "submitted_at": 1726531200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0002-Q3",
+      "employee_id": "EMP0002",
+      "department_id": "D002",
+      "submitted_at": 1727308800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0005-Q3",
+      "employee_id": "EMP0005",
+      "department_id": "D001",
+      "submitted_at": 1727222400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 1
+        },
+        {
+          "q_id": "Q4",
+          "score": 1
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 1
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": "Gestor é excelente."
+    },
+    {
+      "response_id": "RESP-EMP0007-Q3",
+      "employee_id": "EMP0007",
+      "department_id": "D001",
+      "submitted_at": 1726790400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0009-Q3",
+      "employee_id": "EMP0009",
+      "department_id": "D003",
+      "submitted_at": 1726358400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0010-Q3",
+      "employee_id": "EMP0010",
+      "department_id": "D001",
+      "submitted_at": 1727136000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0011-Q3",
+      "employee_id": "EMP0011",
+      "department_id": "D003",
+      "submitted_at": 1727395200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0012-Q3",
+      "employee_id": "EMP0012",
+      "department_id": "D001",
+      "submitted_at": 1726790400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0013-Q3",
+      "employee_id": "EMP0013",
+      "department_id": "D009",
+      "submitted_at": 1726704000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0014-Q3",
+      "employee_id": "EMP0014",
+      "department_id": "D001",
+      "submitted_at": 1727481600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0018-Q3",
+      "employee_id": "EMP0018",
+      "department_id": "D008",
+      "submitted_at": 1727654400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0020-Q3",
+      "employee_id": "EMP0020",
+      "department_id": "D001",
+      "submitted_at": 1726531200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0021-Q3",
+      "employee_id": "EMP0021",
+      "department_id": "D008",
+      "submitted_at": 1727395200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0022-Q3",
+      "employee_id": "EMP0022",
+      "department_id": "D010",
+      "submitted_at": 1726617600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0027-Q3",
+      "employee_id": "EMP0027",
+      "department_id": "D004",
+      "submitted_at": 1726963200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0028-Q3",
+      "employee_id": "EMP0028",
+      "department_id": "D003",
+      "submitted_at": 1727481600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0032-Q3",
+      "employee_id": "EMP0032",
+      "department_id": "D002",
+      "submitted_at": 1726531200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0033-Q3",
+      "employee_id": "EMP0033",
+      "department_id": "D001",
+      "submitted_at": 1727222400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0034-Q3",
+      "employee_id": "EMP0034",
+      "department_id": "D001",
+      "submitted_at": 1727222400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0035-Q3",
+      "employee_id": "EMP0035",
+      "department_id": "D007",
+      "submitted_at": 1726963200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0038-Q3",
+      "employee_id": "EMP0038",
+      "department_id": "D011",
+      "submitted_at": 1726531200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0039-Q3",
+      "employee_id": "EMP0039",
+      "department_id": "D001",
+      "submitted_at": 1727654400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0040-Q3",
+      "employee_id": "EMP0040",
+      "department_id": "D001",
+      "submitted_at": 1727481600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0043-Q3",
+      "employee_id": "EMP0043",
+      "department_id": "D003",
+      "submitted_at": 1727654400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Gestor é excelente."
+    },
+    {
+      "response_id": "RESP-EMP0044-Q3",
+      "employee_id": "EMP0044",
+      "department_id": "D003",
+      "submitted_at": 1726963200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0047-Q3",
+      "employee_id": "EMP0047",
+      "department_id": "D007",
+      "submitted_at": 1727654400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0048-Q3",
+      "employee_id": "EMP0048",
+      "department_id": "D001",
+      "submitted_at": 1726617600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Gestor é excelente."
+    },
+    {
+      "response_id": "RESP-EMP0049-Q3",
+      "employee_id": "EMP0049",
+      "department_id": "D006",
+      "submitted_at": 1726790400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0050-Q3",
+      "employee_id": "EMP0050",
+      "department_id": "D001",
+      "submitted_at": 1726876800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0051-Q3",
+      "employee_id": "EMP0051",
+      "department_id": "D004",
+      "submitted_at": 1726963200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0052-Q3",
+      "employee_id": "EMP0052",
+      "department_id": "D001",
+      "submitted_at": 1726704000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0053-Q3",
+      "employee_id": "EMP0053",
+      "department_id": "D001",
+      "submitted_at": 1726444800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0056-Q3",
+      "employee_id": "EMP0056",
+      "department_id": "D004",
+      "submitted_at": 1727654400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0057-Q3",
+      "employee_id": "EMP0057",
+      "department_id": "D010",
+      "submitted_at": 1726963200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Gestor é excelente."
+    },
+    {
+      "response_id": "RESP-EMP0059-Q3",
+      "employee_id": "EMP0059",
+      "department_id": "D001",
+      "submitted_at": 1727395200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0060-Q3",
+      "employee_id": "EMP0060",
+      "department_id": "D009",
+      "submitted_at": 1726617600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0065-Q3",
+      "employee_id": "EMP0065",
+      "department_id": "D002",
+      "submitted_at": 1726617600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0066-Q3",
+      "employee_id": "EMP0066",
+      "department_id": "D008",
+      "submitted_at": 1727222400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0067-Q3",
+      "employee_id": "EMP0067",
+      "department_id": "D003",
+      "submitted_at": 1727049600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0068-Q3",
+      "employee_id": "EMP0068",
+      "department_id": "D007",
+      "submitted_at": 1727222400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0069-Q3",
+      "employee_id": "EMP0069",
+      "department_id": "D002",
+      "submitted_at": 1727136000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0071-Q3",
+      "employee_id": "EMP0071",
+      "department_id": "D004",
+      "submitted_at": 1726876800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0073-Q3",
+      "employee_id": "EMP0073",
+      "department_id": "D008",
+      "submitted_at": 1727654400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0074-Q3",
+      "employee_id": "EMP0074",
+      "department_id": "D010",
+      "submitted_at": 1727222400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0075-Q3",
+      "employee_id": "EMP0075",
+      "department_id": "D003",
+      "submitted_at": 1726963200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0076-Q3",
+      "employee_id": "EMP0076",
+      "department_id": "D001",
+      "submitted_at": 1726963200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0077-Q3",
+      "employee_id": "EMP0077",
+      "department_id": "D004",
+      "submitted_at": 1727049600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0078-Q3",
+      "employee_id": "EMP0078",
+      "department_id": "D007",
+      "submitted_at": 1727568000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0079-Q3",
+      "employee_id": "EMP0079",
+      "department_id": "D009",
+      "submitted_at": 1726790400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0082-Q3",
+      "employee_id": "EMP0082",
+      "department_id": "D001",
+      "submitted_at": 1727136000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0083-Q3",
+      "employee_id": "EMP0083",
+      "department_id": "D004",
+      "submitted_at": 1726358400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0084-Q3",
+      "employee_id": "EMP0084",
+      "department_id": "D001",
+      "submitted_at": 1726876800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0086-Q3",
+      "employee_id": "EMP0086",
+      "department_id": "D005",
+      "submitted_at": 1727481600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0087-Q3",
+      "employee_id": "EMP0087",
+      "department_id": "D006",
+      "submitted_at": 1726531200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0088-Q3",
+      "employee_id": "EMP0088",
+      "department_id": "D011",
+      "submitted_at": 1727654400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0091-Q3",
+      "employee_id": "EMP0091",
+      "department_id": "D001",
+      "submitted_at": 1727049600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0092-Q3",
+      "employee_id": "EMP0092",
+      "department_id": "D001",
+      "submitted_at": 1727395200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0093-Q3",
+      "employee_id": "EMP0093",
+      "department_id": "D002",
+      "submitted_at": 1726444800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0094-Q3",
+      "employee_id": "EMP0094",
+      "department_id": "D009",
+      "submitted_at": 1727049600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0095-Q3",
+      "employee_id": "EMP0095",
+      "department_id": "D001",
+      "submitted_at": 1727654400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0097-Q3",
+      "employee_id": "EMP0097",
+      "department_id": "D012",
+      "submitted_at": 1727481600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 1
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0098-Q3",
+      "employee_id": "EMP0098",
+      "department_id": "D002",
+      "submitted_at": 1727049600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0099-Q3",
+      "employee_id": "EMP0099",
+      "department_id": "D011",
+      "submitted_at": 1727049600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0101-Q3",
+      "employee_id": "EMP0101",
+      "department_id": "D001",
+      "submitted_at": 1726876800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0102-Q3",
+      "employee_id": "EMP0102",
+      "department_id": "D001",
+      "submitted_at": 1726358400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0103-Q3",
+      "employee_id": "EMP0103",
+      "department_id": "D001",
+      "submitted_at": 1726444800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 1
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0104-Q3",
+      "employee_id": "EMP0104",
+      "department_id": "D006",
+      "submitted_at": 1726617600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0105-Q3",
+      "employee_id": "EMP0105",
+      "department_id": "D012",
+      "submitted_at": 1727395200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0106-Q3",
+      "employee_id": "EMP0106",
+      "department_id": "D003",
+      "submitted_at": 1726790400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Gestor é excelente."
+    },
+    {
+      "response_id": "RESP-EMP0107-Q3",
+      "employee_id": "EMP0107",
+      "department_id": "D005",
+      "submitted_at": 1726704000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0108-Q3",
+      "employee_id": "EMP0108",
+      "department_id": "D007",
+      "submitted_at": 1727222400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": "Gestor é excelente."
+    },
+    {
+      "response_id": "RESP-EMP0110-Q3",
+      "employee_id": "EMP0110",
+      "department_id": "D005",
+      "submitted_at": 1727568000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0111-Q3",
+      "employee_id": "EMP0111",
+      "department_id": "D004",
+      "submitted_at": 1726790400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 1
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 1
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0114-Q3",
+      "employee_id": "EMP0114",
+      "department_id": "D008",
+      "submitted_at": 1727136000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0115-Q3",
+      "employee_id": "EMP0115",
+      "department_id": "D009",
+      "submitted_at": 1726790400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0116-Q3",
+      "employee_id": "EMP0116",
+      "department_id": "D012",
+      "submitted_at": 1726963200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0118-Q3",
+      "employee_id": "EMP0118",
+      "department_id": "D009",
+      "submitted_at": 1726876800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0119-Q3",
+      "employee_id": "EMP0119",
+      "department_id": "D008",
+      "submitted_at": 1727049600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Gestor é excelente."
+    },
+    {
+      "response_id": "RESP-EMP0120-Q3",
+      "employee_id": "EMP0120",
+      "department_id": "D008",
+      "submitted_at": 1727222400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 1
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 1
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0121-Q3",
+      "employee_id": "EMP0121",
+      "department_id": "D004",
+      "submitted_at": 1727222400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 1
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0123-Q3",
+      "employee_id": "EMP0123",
+      "department_id": "D006",
+      "submitted_at": 1727568000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0124-Q3",
+      "employee_id": "EMP0124",
+      "department_id": "D001",
+      "submitted_at": 1726876800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0125-Q3",
+      "employee_id": "EMP0125",
+      "department_id": "D009",
+      "submitted_at": 1726876800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0126-Q3",
+      "employee_id": "EMP0126",
+      "department_id": "D004",
+      "submitted_at": 1727654400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0127-Q3",
+      "employee_id": "EMP0127",
+      "department_id": "D008",
+      "submitted_at": 1726444800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0129-Q3",
+      "employee_id": "EMP0129",
+      "department_id": "D001",
+      "submitted_at": 1727308800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0130-Q3",
+      "employee_id": "EMP0130",
+      "department_id": "D002",
+      "submitted_at": 1727308800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0131-Q3",
+      "employee_id": "EMP0131",
+      "department_id": "D006",
+      "submitted_at": 1726531200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0132-Q3",
+      "employee_id": "EMP0132",
+      "department_id": "D012",
+      "submitted_at": 1726358400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0134-Q3",
+      "employee_id": "EMP0134",
+      "department_id": "D008",
+      "submitted_at": 1727395200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0135-Q3",
+      "employee_id": "EMP0135",
+      "department_id": "D009",
+      "submitted_at": 1727136000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Gestor é excelente."
+    },
+    {
+      "response_id": "RESP-EMP0137-Q3",
+      "employee_id": "EMP0137",
+      "department_id": "D009",
+      "submitted_at": 1726531200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0138-Q3",
+      "employee_id": "EMP0138",
+      "department_id": "D005",
+      "submitted_at": 1727481600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": "Gestor é excelente."
+    },
+    {
+      "response_id": "RESP-EMP0139-Q3",
+      "employee_id": "EMP0139",
+      "department_id": "D001",
+      "submitted_at": 1726963200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 1
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Gestor é excelente."
+    },
+    {
+      "response_id": "RESP-EMP0140-Q3",
+      "employee_id": "EMP0140",
+      "department_id": "D001",
+      "submitted_at": 1727395200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0141-Q3",
+      "employee_id": "EMP0141",
+      "department_id": "D005",
+      "submitted_at": 1727395200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0143-Q3",
+      "employee_id": "EMP0143",
+      "department_id": "D004",
+      "submitted_at": 1726444800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0144-Q3",
+      "employee_id": "EMP0144",
+      "department_id": "D001",
+      "submitted_at": 1726876800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0145-Q3",
+      "employee_id": "EMP0145",
+      "department_id": "D010",
+      "submitted_at": 1727049600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0146-Q3",
+      "employee_id": "EMP0146",
+      "department_id": "D008",
+      "submitted_at": 1727222400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0147-Q3",
+      "employee_id": "EMP0147",
+      "department_id": "D001",
+      "submitted_at": 1727049600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0148-Q3",
+      "employee_id": "EMP0148",
+      "department_id": "D005",
+      "submitted_at": 1727481600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0149-Q3",
+      "employee_id": "EMP0149",
+      "department_id": "D009",
+      "submitted_at": 1727136000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Gestor é excelente."
+    },
+    {
+      "response_id": "RESP-EMP0150-Q3",
+      "employee_id": "EMP0150",
+      "department_id": "D004",
+      "submitted_at": 1726963200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0151-Q3",
+      "employee_id": "EMP0151",
+      "department_id": "D005",
+      "submitted_at": 1727308800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 1
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 1
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0153-Q3",
+      "employee_id": "EMP0153",
+      "department_id": "D001",
+      "submitted_at": 1727568000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 1
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 1
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0154-Q3",
+      "employee_id": "EMP0154",
+      "department_id": "D008",
+      "submitted_at": 1727136000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 1
+        },
+        {
+          "q_id": "Q2",
+          "score": 1
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0158-Q3",
+      "employee_id": "EMP0158",
+      "department_id": "D005",
+      "submitted_at": 1726963200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0159-Q3",
+      "employee_id": "EMP0159",
+      "department_id": "D004",
+      "submitted_at": 1727049600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0160-Q3",
+      "employee_id": "EMP0160",
+      "department_id": "D007",
+      "submitted_at": 1727308800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0161-Q3",
+      "employee_id": "EMP0161",
+      "department_id": "D006",
+      "submitted_at": 1727568000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0162-Q3",
+      "employee_id": "EMP0162",
+      "department_id": "D005",
+      "submitted_at": 1727222400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0163-Q3",
+      "employee_id": "EMP0163",
+      "department_id": "D008",
+      "submitted_at": 1727654400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0166-Q3",
+      "employee_id": "EMP0166",
+      "department_id": "D004",
+      "submitted_at": 1726876800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0167-Q3",
+      "employee_id": "EMP0167",
+      "department_id": "D001",
+      "submitted_at": 1727654400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    },
+    {
+      "response_id": "RESP-EMP0172-Q3",
+      "employee_id": "EMP0172",
+      "department_id": "D001",
+      "submitted_at": 1726358400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0174-Q3",
+      "employee_id": "EMP0174",
+      "department_id": "D011",
+      "submitted_at": 1726358400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0175-Q3",
+      "employee_id": "EMP0175",
+      "department_id": "D001",
+      "submitted_at": 1726358400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0179-Q3",
+      "employee_id": "EMP0179",
+      "department_id": "D005",
+      "submitted_at": 1726790400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0181-Q3",
+      "employee_id": "EMP0181",
+      "department_id": "D010",
+      "submitted_at": 1726617600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0183-Q3",
+      "employee_id": "EMP0183",
+      "department_id": "D005",
+      "submitted_at": 1727654400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0184-Q3",
+      "employee_id": "EMP0184",
+      "department_id": "D001",
+      "submitted_at": 1726790400,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0185-Q3",
+      "employee_id": "EMP0185",
+      "department_id": "D001",
+      "submitted_at": 1726876800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 2
+        },
+        {
+          "q_id": "Q2",
+          "score": 2
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 2
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0186-Q3",
+      "employee_id": "EMP0186",
+      "department_id": "D008",
+      "submitted_at": 1727481600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 5
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0188-Q3",
+      "employee_id": "EMP0188",
+      "department_id": "D001",
+      "submitted_at": 1727049600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Gestor é excelente."
+    },
+    {
+      "response_id": "RESP-EMP0189-Q3",
+      "employee_id": "EMP0189",
+      "department_id": "D011",
+      "submitted_at": 1727568000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 5
+        },
+        {
+          "q_id": "Q7",
+          "score": 5
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0191-Q3",
+      "employee_id": "EMP0191",
+      "department_id": "D008",
+      "submitted_at": 1726963200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 4
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0192-Q3",
+      "employee_id": "EMP0192",
+      "department_id": "D008",
+      "submitted_at": 1726617600,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 5
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 5
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Salário poderia ser melhor."
+    },
+    {
+      "response_id": "RESP-EMP0193-Q3",
+      "employee_id": "EMP0193",
+      "department_id": "D004",
+      "submitted_at": 1726531200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 2
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 2
+        },
+        {
+          "q_id": "Q7",
+          "score": 2
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0194-Q3",
+      "employee_id": "EMP0194",
+      "department_id": "D006",
+      "submitted_at": 1726531200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 3
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 3
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 3
+        }
+      ],
+      "comment": "Precisamos de mais clareza nas metas."
+    },
+    {
+      "response_id": "RESP-EMP0196-Q3",
+      "employee_id": "EMP0196",
+      "department_id": "D009",
+      "submitted_at": 1726444800,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 5
+        },
+        {
+          "q_id": "Q3",
+          "score": 5
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 3
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 4
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": null
+    },
+    {
+      "response_id": "RESP-EMP0198-Q3",
+      "employee_id": "EMP0198",
+      "department_id": "D006",
+      "submitted_at": 1726704000,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 3
+        },
+        {
+          "q_id": "Q3",
+          "score": 2
+        },
+        {
+          "q_id": "Q4",
+          "score": 3
+        },
+        {
+          "q_id": "Q5",
+          "score": 2
+        },
+        {
+          "q_id": "Q6",
+          "score": 4
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Adoro a cultura da empresa."
+    },
+    {
+      "response_id": "RESP-EMP0199-Q3",
+      "employee_id": "EMP0199",
+      "department_id": "D004",
+      "submitted_at": 1726963200,
+      "answers": [
+        {
+          "q_id": "Q1",
+          "score": 4
+        },
+        {
+          "q_id": "Q2",
+          "score": 4
+        },
+        {
+          "q_id": "Q3",
+          "score": 4
+        },
+        {
+          "q_id": "Q4",
+          "score": 5
+        },
+        {
+          "q_id": "Q5",
+          "score": 4
+        },
+        {
+          "q_id": "Q6",
+          "score": 3
+        },
+        {
+          "q_id": "Q7",
+          "score": 3
+        },
+        {
+          "q_id": "Q8",
+          "score": 4
+        }
+      ],
+      "comment": "Falta plano de carreira estruturado."
+    }
+  ]
+}
