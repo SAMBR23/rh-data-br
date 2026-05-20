@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "source": "ERP_SAP",
+    "extracted_at": "2026-04-30T17:08:49.229936",
+    "version": "2.1"
+  },
+  "departments": [
+    {
+      "department_id": "D001",
+      "name": "Engenharia",
+      "cost_center": "CC-100",
+      "head_id": "EMP0129"
+    },
+    {
+      "department_id": "D002",
+      "name": "Produto",
+      "cost_center": "CC-110",
+      "head_id": "EMP0093"
+    },
+    {
+      "department_id": "D003",
+      "name": "Design",
+      "cost_center": "CC-120",
+      "head_id": "EMP0028"
+    },
+    {
+      "department_id": "D004",
+      "name": "Dados & Analytics",
+      "cost_center": "CC-130",
+      "head_id": "EMP0143"
+    },
+    {
+      "department_id": "D005",
+      "name": "Marketing",
+      "cost_center": "CC-200",
+      "head_id": "EMP0107"
+    },
+    {
+      "department_id": "D006",
+      "name": "Vendas",
+      "cost_center": "CC-210",
+      "head_id": "EMP0198"
+    },
+    {
+      "department_id": "D007",
+      "name": "Customer Success",
+      "cost_center": "CC-220",
+      "head_id": "EMP0072"
+    },
+    {
+      "department_id": "D008",
+      "name": "Financeiro",
+      "cost_center": "CC-300",
+      "head_id": "EMP0037"
+    },
+    {
+      "department_id": "D009",
+      "name": "Recursos Humanos",
+      "cost_center": "CC-310",
+      "head_id": "EMP0170"
+    },
+    {
+      "department_id": "D010",
+      "name": "Jurídico",
+      "cost_center": "CC-320",
+      "head_id": "EMP0017"
+    },
+    {
+      "department_id": "D011",
+      "name": "Operações",
+      "cost_center": "CC-330",
+      "head_id": "EMP0099"
+    },
+    {
+      "department_id": "D012",
+      "name": "TI Corporativa",
+      "cost_center": "CC-340",
+      "head_id": "EMP0132"
+    }
+  ]
+}

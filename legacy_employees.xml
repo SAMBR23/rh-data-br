@@ -1,0 +1,801 @@
+<?xml version="1.0" ?>
+<LegacyHRSystem version="1.2" exported_at="2024-12-15T10:30:00" source_system="RH-Mainframe-1998">
+  <Employees>
+    <Employee legacy_id="LEG0001" active="false">
+      <Nome>Teresa Gonçalves</Nome>
+      <Matricula>M-98580</Matricula>
+      <DataAdmissao>2009-09-12</DataAdmissao>
+      <DataDesligamento>2012-07-26</DataDesligamento>
+      <Cargo>Analista</Cargo>
+      <Departamento>Comercial</Departamento>
+      <SalarioFinal>9564</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2001-12-01">
+          <Valor>2240</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2011-05-17">
+          <Valor>2468</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="1996-07-28">
+          <Valor>2685</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2013-11-06">
+          <Valor>3024</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+      <CurrentEmployeeRef>EMP0172</CurrentEmployeeRef>
+    </Employee>
+    <Employee legacy_id="LEG0002" active="false">
+      <Nome>Maria da Silva</Nome>
+      <Matricula>M-95447</Matricula>
+      <DataAdmissao>2006-04-28</DataAdmissao>
+      <DataDesligamento>2014-04-15</DataDesligamento>
+      <Cargo>Gerente</Cargo>
+      <Departamento>Financeiro</Departamento>
+      <SalarioFinal>4964</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="1999-04-09">
+          <Valor>3019</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2012-02-28">
+          <Valor>3244</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="1996-08-04">
+          <Valor>3584</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2010-10-22">
+          <Valor>4165</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0003" active="false">
+      <Nome>Teresa dos Santos</Nome>
+      <Matricula>M-79550</Matricula>
+      <DataAdmissao>2001-01-27</DataAdmissao>
+      <DataDesligamento>2013-06-24</DataDesligamento>
+      <Cargo>Supervisor</Cargo>
+      <Departamento>Financeiro</Departamento>
+      <SalarioFinal>8364</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2014-11-12">
+          <Valor>3965</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2006-05-27">
+          <Valor>4182</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2012-06-08">
+          <Valor>5013</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2008-05-02">
+          <Valor>5554</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2009-09-01">
+          <Valor>6507</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0004" active="false">
+      <Nome>Francisca Junior</Nome>
+      <Matricula>M-12660</Matricula>
+      <DataAdmissao>2008-08-05</DataAdmissao>
+      <DataDesligamento>2012-08-18</DataDesligamento>
+      <Cargo>Analista</Cargo>
+      <Departamento>Financeiro</Departamento>
+      <SalarioFinal>14393</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2006-12-18">
+          <Valor>2231</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2013-03-07">
+          <Valor>2501</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2002-03-28">
+          <Valor>2941</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="1996-09-14">
+          <Valor>3288</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="1996-09-17">
+          <Valor>3552</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0005" active="false">
+      <Nome>Maria Filho</Nome>
+      <Matricula>M-75909</Matricula>
+      <DataAdmissao>2008-12-08</DataAdmissao>
+      <DataDesligamento>2014-01-27</DataDesligamento>
+      <Cargo>Gerente</Cargo>
+      <Departamento>Administração</Departamento>
+      <SalarioFinal>9297</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2007-12-20">
+          <Valor>4970</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2012-05-15">
+          <Valor>5936</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="2014-09-22">
+          <Valor>6324</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0006" active="false">
+      <Nome>José Junior</Nome>
+      <Matricula>M-31651</Matricula>
+      <DataAdmissao>2001-08-10</DataAdmissao>
+      <DataDesligamento>2010-12-13</DataDesligamento>
+      <Cargo>Analista</Cargo>
+      <Departamento>RH</Departamento>
+      <SalarioFinal>11589</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="1996-11-19">
+          <Valor>1589</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2003-05-24">
+          <Valor>1699</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2002-07-04">
+          <Valor>2017</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="1996-03-16">
+          <Valor>2276</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0007" active="false">
+      <Nome>Francisca Filho</Nome>
+      <Matricula>M-20958</Matricula>
+      <DataAdmissao>1995-04-12</DataAdmissao>
+      <DataDesligamento>2011-03-26</DataDesligamento>
+      <Cargo>Auxiliar Administrativo</Cargo>
+      <Departamento>RH</Departamento>
+      <SalarioFinal>7825</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2014-04-05">
+          <Valor>2632</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2014-11-22">
+          <Valor>2926</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2008-01-19">
+          <Valor>3195</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0008" active="false">
+      <Nome>Francisca Pereira da Costa</Nome>
+      <Matricula>M-85479</Matricula>
+      <DataAdmissao>2010-12-24</DataAdmissao>
+      <DataDesligamento>2014-04-04</DataDesligamento>
+      <Cargo>Gerente</Cargo>
+      <Departamento>Administração</Departamento>
+      <SalarioFinal>11368</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2000-12-22">
+          <Valor>2247</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="1996-07-28">
+          <Valor>2600</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2000-01-18">
+          <Valor>3013</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="1998-12-10">
+          <Valor>3301</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0009" active="false">
+      <Nome>Teresa Junior</Nome>
+      <Matricula>M-92296</Matricula>
+      <DataAdmissao>1998-09-03</DataAdmissao>
+      <DataDesligamento>2011-10-27</DataDesligamento>
+      <Cargo>Analista</Cargo>
+      <Departamento>Administração</Departamento>
+      <SalarioFinal>14017</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="1995-02-01">
+          <Valor>4950</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2013-06-09">
+          <Valor>5937</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2012-06-17">
+          <Valor>6994</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="2000-04-20">
+          <Valor>7614</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0010" active="false">
+      <Nome>José Souza Lima</Nome>
+      <Matricula>M-18985</Matricula>
+      <DataAdmissao>2001-04-12</DataAdmissao>
+      <DataDesligamento>2010-03-07</DataDesligamento>
+      <Cargo>Gerente</Cargo>
+      <Departamento>Operações</Departamento>
+      <SalarioFinal>5327</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2012-10-18">
+          <Valor>3953</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2007-07-17">
+          <Valor>4223</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2011-11-10">
+          <Valor>4758</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="2004-06-21">
+          <Valor>5161</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2004-10-11">
+          <Valor>5578</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0011" active="false">
+      <Nome>Antônio Souza Lima</Nome>
+      <Matricula>M-42191</Matricula>
+      <DataAdmissao>2006-07-23</DataAdmissao>
+      <DataDesligamento>2011-07-19</DataDesligamento>
+      <Cargo>Coordenador</Cargo>
+      <Departamento>Comercial</Departamento>
+      <SalarioFinal>8091</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2009-03-27">
+          <Valor>3489</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="1999-09-08">
+          <Valor>3892</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0012" active="false">
+      <Nome>Geraldo dos Santos</Nome>
+      <Matricula>M-57705</Matricula>
+      <DataAdmissao>2008-08-28</DataAdmissao>
+      <DataDesligamento>2010-01-02</DataDesligamento>
+      <Cargo>Analista</Cargo>
+      <Departamento>Administração</Departamento>
+      <SalarioFinal>13213</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2007-02-07">
+          <Valor>3156</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2005-12-23">
+          <Valor>3535</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2013-12-08">
+          <Valor>3786</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0013" active="false">
+      <Nome>Geraldo Gonçalves</Nome>
+      <Matricula>M-59537</Matricula>
+      <DataAdmissao>1998-07-18</DataAdmissao>
+      <DataDesligamento>2011-08-12</DataDesligamento>
+      <Cargo>Analista</Cargo>
+      <Departamento>Administração</Departamento>
+      <SalarioFinal>2370</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="1996-08-21">
+          <Valor>3762</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2012-07-09">
+          <Valor>4044</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="2009-04-22">
+          <Valor>4613</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2012-05-11">
+          <Valor>5374</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2013-03-17">
+          <Valor>5798</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0014" active="false">
+      <Nome>Raimundo da Silva</Nome>
+      <Matricula>M-13878</Matricula>
+      <DataAdmissao>2004-05-18</DataAdmissao>
+      <DataDesligamento>2014-07-17</DataDesligamento>
+      <Cargo>Operador</Cargo>
+      <Departamento>Administração</Departamento>
+      <SalarioFinal>9778</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2012-03-23">
+          <Valor>2618</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2008-02-25">
+          <Valor>2950</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="1997-06-24">
+          <Valor>3420</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="1997-11-27">
+          <Valor>3948</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0015" active="false">
+      <Nome>Raimundo de Oliveira</Nome>
+      <Matricula>M-44241</Matricula>
+      <DataAdmissao>1995-09-17</DataAdmissao>
+      <DataDesligamento>2012-10-04</DataDesligamento>
+      <Cargo>Gerente</Cargo>
+      <Departamento>Comercial</Departamento>
+      <SalarioFinal>4697</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2003-09-20">
+          <Valor>2842</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2010-11-19">
+          <Valor>3228</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="1995-01-22">
+          <Valor>3707</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2001-09-08">
+          <Valor>4378</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0016" active="false">
+      <Nome>Raimundo Filho</Nome>
+      <Matricula>M-44677</Matricula>
+      <DataAdmissao>2006-11-07</DataAdmissao>
+      <DataDesligamento>2011-05-15</DataDesligamento>
+      <Cargo>Gerente</Cargo>
+      <Departamento>RH</Departamento>
+      <SalarioFinal>2061</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2008-05-15">
+          <Valor>2926</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2010-08-15">
+          <Valor>3177</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2000-08-18">
+          <Valor>3676</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0017" active="false">
+      <Nome>Sebastião dos Santos</Nome>
+      <Matricula>M-85088</Matricula>
+      <DataAdmissao>2010-01-14</DataAdmissao>
+      <DataDesligamento>2013-12-02</DataDesligamento>
+      <Cargo>Gerente</Cargo>
+      <Departamento>Operações</Departamento>
+      <SalarioFinal>4388</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2000-09-17">
+          <Valor>2326</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2009-07-27">
+          <Valor>2706</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="1997-06-26">
+          <Valor>3208</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2012-10-23">
+          <Valor>3771</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0018" active="false">
+      <Nome>Joana Filho</Nome>
+      <Matricula>M-73958</Matricula>
+      <DataAdmissao>2006-11-25</DataAdmissao>
+      <DataDesligamento>2012-11-02</DataDesligamento>
+      <Cargo>Coordenador</Cargo>
+      <Departamento>Administração</Departamento>
+      <SalarioFinal>9223</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2014-09-10">
+          <Valor>4180</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2013-07-01">
+          <Valor>4674</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0019" active="false">
+      <Nome>João dos Santos</Nome>
+      <Matricula>M-42106</Matricula>
+      <DataAdmissao>2002-10-10</DataAdmissao>
+      <DataDesligamento>2012-06-13</DataDesligamento>
+      <Cargo>Supervisor</Cargo>
+      <Departamento>Operações</Departamento>
+      <SalarioFinal>2148</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2013-08-04">
+          <Valor>3553</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2014-07-21">
+          <Valor>4018</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2003-08-18">
+          <Valor>4338</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0020" active="false">
+      <Nome>Geraldo dos Santos</Nome>
+      <Matricula>M-51132</Matricula>
+      <DataAdmissao>2009-04-10</DataAdmissao>
+      <DataDesligamento>2013-01-20</DataDesligamento>
+      <Cargo>Gerente</Cargo>
+      <Departamento>Administração</Departamento>
+      <SalarioFinal>6797</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="1996-06-26">
+          <Valor>3576</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="1998-03-04">
+          <Valor>4045</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="1997-02-20">
+          <Valor>4731</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2003-06-18">
+          <Valor>5664</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2012-10-19">
+          <Valor>6465</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0021" active="false">
+      <Nome>Francisca Pereira da Costa</Nome>
+      <Matricula>M-97238</Matricula>
+      <DataAdmissao>2002-09-16</DataAdmissao>
+      <DataDesligamento>2010-12-17</DataDesligamento>
+      <Cargo>Supervisor</Cargo>
+      <Departamento>Administração</Departamento>
+      <SalarioFinal>6461</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2000-05-15">
+          <Valor>4685</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2005-09-15">
+          <Valor>5273</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="1995-12-09">
+          <Valor>5860</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="1997-06-02">
+          <Valor>6899</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="2003-08-28">
+          <Valor>7940</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0022" active="false">
+      <Nome>Manoel de Oliveira</Nome>
+      <Matricula>M-56912</Matricula>
+      <DataAdmissao>1995-10-02</DataAdmissao>
+      <DataDesligamento>2010-11-07</DataDesligamento>
+      <Cargo>Auxiliar Administrativo</Cargo>
+      <Departamento>Financeiro</Departamento>
+      <SalarioFinal>13235</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="1999-03-20">
+          <Valor>2929</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="1998-03-02">
+          <Valor>3356</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2001-11-10">
+          <Valor>3594</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2009-09-20">
+          <Valor>4154</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0023" active="false">
+      <Nome>Manoel Junior</Nome>
+      <Matricula>M-16657</Matricula>
+      <DataAdmissao>2002-12-08</DataAdmissao>
+      <DataDesligamento>2013-03-05</DataDesligamento>
+      <Cargo>Operador</Cargo>
+      <Departamento>Comercial</Departamento>
+      <SalarioFinal>13874</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2011-08-01">
+          <Valor>3132</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2000-06-20">
+          <Valor>3405</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2000-02-05">
+          <Valor>3728</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="1999-05-22">
+          <Valor>4025</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="2003-07-06">
+          <Valor>4686</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0024" active="false">
+      <Nome>Maria Filho</Nome>
+      <Matricula>M-82346</Matricula>
+      <DataAdmissao>1995-08-12</DataAdmissao>
+      <DataDesligamento>2013-08-19</DataDesligamento>
+      <Cargo>Auxiliar Administrativo</Cargo>
+      <Departamento>Comercial</Departamento>
+      <SalarioFinal>13338</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="1999-08-09">
+          <Valor>1714</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2003-01-06">
+          <Valor>1815</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2007-03-03">
+          <Valor>1931</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0025" active="false">
+      <Nome>Maria Gonçalves</Nome>
+      <Matricula>M-88198</Matricula>
+      <DataAdmissao>2010-06-12</DataAdmissao>
+      <DataDesligamento>2012-12-05</DataDesligamento>
+      <Cargo>Supervisor</Cargo>
+      <Departamento>Financeiro</Departamento>
+      <SalarioFinal>8176</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2012-02-27">
+          <Valor>4651</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2005-09-15">
+          <Valor>4915</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2014-10-10">
+          <Valor>5703</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2000-05-01">
+          <Valor>6043</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2002-08-16">
+          <Valor>6412</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+      <CurrentEmployeeRef>EMP0108</CurrentEmployeeRef>
+    </Employee>
+    <Employee legacy_id="LEG0026" active="false">
+      <Nome>João dos Santos</Nome>
+      <Matricula>M-57460</Matricula>
+      <DataAdmissao>1998-03-16</DataAdmissao>
+      <DataDesligamento>2010-03-02</DataDesligamento>
+      <Cargo>Supervisor</Cargo>
+      <Departamento>Operações</Departamento>
+      <SalarioFinal>13183</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="1995-03-03">
+          <Valor>3731</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2009-11-24">
+          <Valor>3953</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0027" active="false">
+      <Nome>Manoel dos Santos</Nome>
+      <Matricula>M-33837</Matricula>
+      <DataAdmissao>2003-12-19</DataAdmissao>
+      <DataDesligamento>2014-10-09</DataDesligamento>
+      <Cargo>Gerente</Cargo>
+      <Departamento>Operações</Departamento>
+      <SalarioFinal>6314</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="1999-10-18">
+          <Valor>3499</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="1998-11-23">
+          <Valor>4078</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2009-07-13">
+          <Valor>4751</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="1997-12-03">
+          <Valor>5417</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2004-11-19">
+          <Valor>6028</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0028" active="false">
+      <Nome>Francisca Filho</Nome>
+      <Matricula>M-29119</Matricula>
+      <DataAdmissao>2010-11-21</DataAdmissao>
+      <DataDesligamento>2011-12-15</DataDesligamento>
+      <Cargo>Gerente</Cargo>
+      <Departamento>Financeiro</Departamento>
+      <SalarioFinal>9975</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2000-10-23">
+          <Valor>2007</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2005-10-06">
+          <Valor>2227</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0029" active="false">
+      <Nome>Raimundo Filho</Nome>
+      <Matricula>M-85733</Matricula>
+      <DataAdmissao>2005-02-24</DataAdmissao>
+      <DataDesligamento>2013-01-23</DataDesligamento>
+      <Cargo>Gerente</Cargo>
+      <Departamento>Comercial</Departamento>
+      <SalarioFinal>5944</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="1996-11-22">
+          <Valor>4788</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="2001-10-10">
+          <Valor>5707</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="1997-09-02">
+          <Valor>6345</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+        <Mudanca data="2014-03-03">
+          <Valor>6834</Valor>
+          <Motivo>Promoção</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+    <Employee legacy_id="LEG0030" active="false">
+      <Nome>Ana Pereira da Costa</Nome>
+      <Matricula>M-80967</Matricula>
+      <DataAdmissao>1997-01-26</DataAdmissao>
+      <DataDesligamento>2014-11-10</DataDesligamento>
+      <Cargo>Coordenador</Cargo>
+      <Departamento>Operações</Departamento>
+      <SalarioFinal>2558</SalarioFinal>
+      <HistoricoSalarial>
+        <Mudanca data="2003-01-02">
+          <Valor>4005</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="2011-06-16">
+          <Valor>4448</Valor>
+          <Motivo>Equiparação</Motivo>
+        </Mudanca>
+        <Mudanca data="1999-11-19">
+          <Valor>5188</Valor>
+          <Motivo>Dissídio</Motivo>
+        </Mudanca>
+        <Mudanca data="2012-04-04">
+          <Valor>5478</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+        <Mudanca data="2013-07-28">
+          <Valor>6432</Valor>
+          <Motivo>Mérito</Motivo>
+        </Mudanca>
+      </HistoricoSalarial>
+    </Employee>
+  </Employees>
+</LegacyHRSystem>

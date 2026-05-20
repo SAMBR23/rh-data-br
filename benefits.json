@@ -1,0 +1,5602 @@
+[
+  {
+    "id_funcionario": "EMP0001",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 2,
+        "valor_mensal_empresa": 673.68
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0002",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Intermediário",
+        "dependentes": 3,
+        "valor_mensal_empresa": 1337.24
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0005",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 461.6
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 53.74
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0006",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Básico",
+        "dependentes": 4,
+        "valor_mensal_empresa": 305.39
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0007",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 1,
+        "valor_mensal_empresa": 334.55
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 70.11
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0008",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 1198.62
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 31.65
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0009",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1414.56
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0010",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 952.5
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 63.46
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0011",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Premium",
+        "dependentes": 1,
+        "valor_mensal_empresa": 955.39
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 49.86
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0012",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1379.56
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0013",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 0,
+        "valor_mensal_empresa": 739.53
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 33.45
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0014",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Premium",
+        "dependentes": 1,
+        "valor_mensal_empresa": 1298.18
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0016",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 500.99
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 74.1
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0017",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 1,
+        "valor_mensal_empresa": 1225.5
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 67.32
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0018",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Intermediário",
+        "dependentes": 1,
+        "valor_mensal_empresa": 1077.17
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0019",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 1,
+        "valor_mensal_empresa": 322.26
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 61.81
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0020",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": false,
+        "operadora": null,
+        "tipo_plano": null,
+        "dependentes": 0,
+        "valor_mensal_empresa": 0
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0021",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Premium",
+        "dependentes": 4,
+        "valor_mensal_empresa": 1038.17
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 66.53
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0022",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Intermediário",
+        "dependentes": 1,
+        "valor_mensal_empresa": 915.99
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 46.86
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0024",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 1,
+        "valor_mensal_empresa": 963.15
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 68.99
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0025",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": false,
+        "operadora": null,
+        "tipo_plano": null,
+        "dependentes": 0,
+        "valor_mensal_empresa": 0
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 32.79
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0026",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Intermediário",
+        "dependentes": 2,
+        "valor_mensal_empresa": 1122.74
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0027",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 1174.7
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 30.07
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0028",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 1074.63
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 64.18
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0029",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Premium",
+        "dependentes": 3,
+        "valor_mensal_empresa": 1384.98
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0032",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 939.19
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0033",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 3,
+        "valor_mensal_empresa": 458.44
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0034",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 1069.13
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 45.37
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0035",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 872.08
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 47.21
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0037",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": false,
+        "operadora": null,
+        "tipo_plano": null,
+        "dependentes": 0,
+        "valor_mensal_empresa": 0
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0038",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 732.11
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 66.24
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0039",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": false,
+        "operadora": null,
+        "tipo_plano": null,
+        "dependentes": 0,
+        "valor_mensal_empresa": 0
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 45.49
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0040",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Intermediário",
+        "dependentes": 1,
+        "valor_mensal_empresa": 586.4
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 52.24
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0041",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 746.25
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0043",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1323.3
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 56.13
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0044",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 635.29
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 38.91
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0046",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 0,
+        "valor_mensal_empresa": 397.18
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 30.29
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0047",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 954.6
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0048",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Premium",
+        "dependentes": 2,
+        "valor_mensal_empresa": 864.39
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 79.94
+      },
+      "vale_refeicao": {
+        "ativo": false,
+        "valor_diario": 0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0049",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Premium",
+        "dependentes": 4,
+        "valor_mensal_empresa": 801.49
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 49.55
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0050",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 2,
+        "valor_mensal_empresa": 526.86
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 69.47
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0051",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1331.45
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0052",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": false,
+        "operadora": null,
+        "tipo_plano": null,
+        "dependentes": 0,
+        "valor_mensal_empresa": 0
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 44.96
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0053",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 685.2
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 58.26
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0054",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Básico",
+        "dependentes": 4,
+        "valor_mensal_empresa": 1133.91
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 42.09
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0055",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 1131.64
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0056",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 3,
+        "valor_mensal_empresa": 623.99
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 40.38
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0057",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Básico",
+        "dependentes": 1,
+        "valor_mensal_empresa": 419.56
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 42.82
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0058",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 628.55
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 40.38
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0059",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": false,
+        "operadora": null,
+        "tipo_plano": null,
+        "dependentes": 0,
+        "valor_mensal_empresa": 0
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 33.69
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0060",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Intermediário",
+        "dependentes": 1,
+        "valor_mensal_empresa": 1436.53
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 72.72
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0061",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Premium",
+        "dependentes": 2,
+        "valor_mensal_empresa": 503.37
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0064",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 342.64
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0065",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Básico",
+        "dependentes": 1,
+        "valor_mensal_empresa": 1035.37
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0066",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 802.6
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0067",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": false,
+        "operadora": null,
+        "tipo_plano": null,
+        "dependentes": 0,
+        "valor_mensal_empresa": 0
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 33.17
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0068",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 1159.88
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0069",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 3,
+        "valor_mensal_empresa": 301.16
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0070",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 794.85
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0071",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 1419.97
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0072",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Básico",
+        "dependentes": 3,
+        "valor_mensal_empresa": 586.89
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 33.2
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0073",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 1,
+        "valor_mensal_empresa": 707.86
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 33.93
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0074",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Básico",
+        "dependentes": 1,
+        "valor_mensal_empresa": 489.26
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0075",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Intermediário",
+        "dependentes": 1,
+        "valor_mensal_empresa": 474.77
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0076",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Básico",
+        "dependentes": 0,
+        "valor_mensal_empresa": 528.82
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 52.38
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0077",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1156.98
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 41.67
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0078",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": false,
+        "operadora": null,
+        "tipo_plano": null,
+        "dependentes": 0,
+        "valor_mensal_empresa": 0
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 39.19
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0079",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 1420.73
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 40.78
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0081",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 1,
+        "valor_mensal_empresa": 752.06
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 36.44
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0082",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 1,
+        "valor_mensal_empresa": 1005.24
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0083",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Premium",
+        "dependentes": 2,
+        "valor_mensal_empresa": 533.09
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0084",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Básico",
+        "dependentes": 4,
+        "valor_mensal_empresa": 1164.86
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 34.14
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0085",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 2,
+        "valor_mensal_empresa": 1403.25
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 70.91
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0086",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": false,
+        "operadora": null,
+        "tipo_plano": null,
+        "dependentes": 0,
+        "valor_mensal_empresa": 0
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 38.02
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0087",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Premium",
+        "dependentes": 1,
+        "valor_mensal_empresa": 1386.07
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 64.87
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0088",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 0,
+        "valor_mensal_empresa": 722.9
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 39.84
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0090",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1177.64
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 70.33
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0091",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Básico",
+        "dependentes": 4,
+        "valor_mensal_empresa": 1139.18
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0092",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Intermediário",
+        "dependentes": 0,
+        "valor_mensal_empresa": 971.47
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 73.7
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0093",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Básico",
+        "dependentes": 4,
+        "valor_mensal_empresa": 417.57
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 57.39
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0094",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Premium",
+        "dependentes": 1,
+        "valor_mensal_empresa": 849.69
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 76.94
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0095",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1255.18
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 67.3
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0096",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 3,
+        "valor_mensal_empresa": 834.84
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 74.82
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0097",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Básico",
+        "dependentes": 1,
+        "valor_mensal_empresa": 809.15
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0098",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Intermediário",
+        "dependentes": 2,
+        "valor_mensal_empresa": 624.79
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 66.32
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0099",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 0,
+        "valor_mensal_empresa": 714.28
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 74.48
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0100",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1042.92
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 74.66
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0101",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 833.06
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 51.9
+      },
+      "vale_refeicao": {
+        "ativo": false,
+        "valor_diario": 0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0102",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Premium",
+        "dependentes": 1,
+        "valor_mensal_empresa": 344.42
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 79.13
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0103",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 1225.65
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0104",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 607.41
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 33.48
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0105",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Premium",
+        "dependentes": 1,
+        "valor_mensal_empresa": 1499.03
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 44.16
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0106",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 1122.07
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0107",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Premium",
+        "dependentes": 2,
+        "valor_mensal_empresa": 346.68
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 50.76
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0108",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Intermediário",
+        "dependentes": 3,
+        "valor_mensal_empresa": 325.22
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 47.56
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0109",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1457.54
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 36.11
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0110",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Premium",
+        "dependentes": 1,
+        "valor_mensal_empresa": 615.89
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0111",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": false,
+        "operadora": null,
+        "tipo_plano": null,
+        "dependentes": 0,
+        "valor_mensal_empresa": 0
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 54.95
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0113",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Básico",
+        "dependentes": 0,
+        "valor_mensal_empresa": 826.45
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 46.1
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0114",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1187.63
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0115",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1407.31
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0116",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Básico",
+        "dependentes": 4,
+        "valor_mensal_empresa": 842.0
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0118",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 0,
+        "valor_mensal_empresa": 702.52
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0119",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 3,
+        "valor_mensal_empresa": 612.72
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 38.69
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0120",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Básico",
+        "dependentes": 0,
+        "valor_mensal_empresa": 701.13
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0121",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 3,
+        "valor_mensal_empresa": 897.22
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 55.83
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0122",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 4,
+        "valor_mensal_empresa": 1250.86
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 61.65
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0123",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Básico",
+        "dependentes": 4,
+        "valor_mensal_empresa": 516.35
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": false,
+        "valor_diario": 0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0124",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Intermediário",
+        "dependentes": 1,
+        "valor_mensal_empresa": 1007.56
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0125",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Premium",
+        "dependentes": 3,
+        "valor_mensal_empresa": 1231.06
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0126",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Premium",
+        "dependentes": 3,
+        "valor_mensal_empresa": 769.3
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 54.17
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0127",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Básico",
+        "dependentes": 3,
+        "valor_mensal_empresa": 769.25
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0129",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 707.71
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0130",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 4,
+        "valor_mensal_empresa": 1213.96
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 71.47
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0131",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Básico",
+        "dependentes": 1,
+        "valor_mensal_empresa": 613.5
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0132",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Intermediário",
+        "dependentes": 3,
+        "valor_mensal_empresa": 410.65
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 35.88
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0133",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Básico",
+        "dependentes": 1,
+        "valor_mensal_empresa": 1305.1
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 34.68
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0134",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": false,
+        "operadora": null,
+        "tipo_plano": null,
+        "dependentes": 0,
+        "valor_mensal_empresa": 0
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0135",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Intermediário",
+        "dependentes": 3,
+        "valor_mensal_empresa": 725.3
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0136",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 555.49
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 54.79
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0137",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 598.0
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 63.07
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0138",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 548.99
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 56.99
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0139",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1275.29
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0140",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Básico",
+        "dependentes": 3,
+        "valor_mensal_empresa": 778.3
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 58.13
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0141",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Premium",
+        "dependentes": 3,
+        "valor_mensal_empresa": 1161.03
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0142",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 3,
+        "valor_mensal_empresa": 425.59
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 47.02
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0143",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 2,
+        "valor_mensal_empresa": 1001.67
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0144",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Básico",
+        "dependentes": 4,
+        "valor_mensal_empresa": 839.75
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 43.72
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0145",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 664.39
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 41.19
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0146",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 2,
+        "valor_mensal_empresa": 826.03
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 41.14
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0147",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Básico",
+        "dependentes": 4,
+        "valor_mensal_empresa": 319.25
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 37.92
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0148",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Intermediário",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1247.39
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 74.87
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0149",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 0,
+        "valor_mensal_empresa": 323.68
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0150",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 456.95
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 58.83
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0151",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Premium",
+        "dependentes": 4,
+        "valor_mensal_empresa": 779.28
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 56.35
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0152",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": false,
+        "operadora": null,
+        "tipo_plano": null,
+        "dependentes": 0,
+        "valor_mensal_empresa": 0
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0153",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 1,
+        "valor_mensal_empresa": 519.97
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 57.79
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0154",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1255.11
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 65.27
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0155",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 1271.25
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 33.52
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0158",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Premium",
+        "dependentes": 4,
+        "valor_mensal_empresa": 429.66
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0159",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Premium",
+        "dependentes": 1,
+        "valor_mensal_empresa": 354.99
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 40.0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0160",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 2,
+        "valor_mensal_empresa": 300.7
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0161",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1082.77
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0162",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1494.11
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 68.22
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0163",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Premium",
+        "dependentes": 1,
+        "valor_mensal_empresa": 1452.89
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 43.22
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0164",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 1,
+        "valor_mensal_empresa": 372.21
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 49.34
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0165",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1377.79
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 33.01
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0166",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 3,
+        "valor_mensal_empresa": 924.34
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 61.29
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0167",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 713.46
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 74.3
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0168",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Premium",
+        "dependentes": 3,
+        "valor_mensal_empresa": 1456.93
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 39.04
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0170",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Premium",
+        "dependentes": 2,
+        "valor_mensal_empresa": 316.65
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 68.95
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0172",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Básico",
+        "dependentes": 0,
+        "valor_mensal_empresa": 1327.25
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 43.1
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0173",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 381.67
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 58.11
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0174",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Premium",
+        "dependentes": 1,
+        "valor_mensal_empresa": 1339.38
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 55.97
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0175",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Básico",
+        "dependentes": 0,
+        "valor_mensal_empresa": 457.74
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 59.15
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0176",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Básico",
+        "dependentes": 1,
+        "valor_mensal_empresa": 1038.35
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 79.77
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0177",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 3,
+        "valor_mensal_empresa": 780.68
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 74.42
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0178",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 847.32
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 54.02
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0179",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 3,
+        "valor_mensal_empresa": 1313.69
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0181",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Premium",
+        "dependentes": 0,
+        "valor_mensal_empresa": 777.36
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 50.77
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0183",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 3,
+        "valor_mensal_empresa": 506.75
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 66.83
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0184",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Premium",
+        "dependentes": 4,
+        "valor_mensal_empresa": 808.33
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 32.12
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0185",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 3,
+        "valor_mensal_empresa": 944.13
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 64.59
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0186",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 0,
+        "valor_mensal_empresa": 567.25
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 52.07
+      },
+      "vale_refeicao": {
+        "ativo": false,
+        "valor_diario": 0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0188",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Básico",
+        "dependentes": 2,
+        "valor_mensal_empresa": 1350.97
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 55.89
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": false,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0189",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Bradesco Saúde",
+        "tipo_plano": "Intermediário",
+        "dependentes": 0,
+        "valor_mensal_empresa": 821.74
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 50.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0190",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Intermediário",
+        "dependentes": 1,
+        "valor_mensal_empresa": 964.24
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 39.66
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0191",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": false,
+        "operadora": null,
+        "tipo_plano": null,
+        "dependentes": 0,
+        "valor_mensal_empresa": 0
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0192",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 382.81
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 58.97
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0193",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Intermediário",
+        "dependentes": 4,
+        "valor_mensal_empresa": 1089.54
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 36.3
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 400
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0194",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 3,
+        "valor_mensal_empresa": 1349.75
+      },
+      "plano_odontologico": {
+        "ativo": false,
+        "valor_mensal_empresa": 0
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0195",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Amil",
+        "tipo_plano": "Premium",
+        "dependentes": 2,
+        "valor_mensal_empresa": 1377.31
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 55.39
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0196",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 4,
+        "valor_mensal_empresa": 467.54
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 31.36
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 35.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 600
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0198",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "SulAmérica",
+        "tipo_plano": "Intermediário",
+        "dependentes": 3,
+        "valor_mensal_empresa": 615.17
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 40.62
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 45.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 700
+      },
+      "auxilio_academia": {
+        "ativo": true,
+        "valor_mensal": 100
+      },
+      "auxilio_home_office": {
+        "ativo": false,
+        "valor_mensal": 0
+      }
+    }
+  },
+  {
+    "id_funcionario": "EMP0199",
+    "beneficios": {
+      "plano_saude": {
+        "ativo": true,
+        "operadora": "Unimed",
+        "tipo_plano": "Básico",
+        "dependentes": 0,
+        "valor_mensal_empresa": 413.28
+      },
+      "plano_odontologico": {
+        "ativo": true,
+        "valor_mensal_empresa": 76.55
+      },
+      "vale_refeicao": {
+        "ativo": true,
+        "valor_diario": 40.0
+      },
+      "vale_alimentacao": {
+        "ativo": true,
+        "valor_mensal": 500
+      },
+      "auxilio_academia": {
+        "ativo": false,
+        "valor_mensal": 0
+      },
+      "auxilio_home_office": {
+        "ativo": true,
+        "valor_mensal": 150
+      }
+    }
+  }
+]
